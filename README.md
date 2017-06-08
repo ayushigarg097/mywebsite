@@ -33,4 +33,4 @@ This theme Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/)
 
 ## Copyright and License
 
-Copyright 2013-2016 Sandeep Garg. Code released under the [MIT] license.
+Copyright 2017 Sandeep Garg. Code released under the [MIT] license.
